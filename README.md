@@ -1,6 +1,6 @@
 # Phân Cụm Sinh Viên Theo Năng Lực Học Tập Bằng K-Means & Hierarchical Clustering
 
-
+Link video thuyết trình: https://youtu.be/dHkDZVtTBBY
 ---
 
 ## Giới Thiệu Đề Tài
