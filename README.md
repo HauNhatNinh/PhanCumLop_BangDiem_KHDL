@@ -57,9 +57,9 @@ Các đặc trưng sau đó được chuẩn hóa bằng `StandardScaler` để 
 
 | Nhóm | Số lượng SV | Tỷ lệ % | GPA Trung Bình Nhóm | Đặc điểm nổi bật |
 | :--- | :---: | :---: | :---: | :--- |
-| 🟢 **Giỏi** | 19 SV | 34.5% | **3.15** | GPA cao nổi trội, kết quả học tập ổn định, tỷ lệ môn giỏi cao. |
-| 🟡 **Khá** | 25 SV | 45.5% | **2.58** | Chiếm số đông trong lớp, lực học khá đồng đều, ít môn bị điểm kém. |
-| 🔴 **Trung bình - Yếu** | 11 SV | 20.0% | **2.20** | Điểm số không ổn định, tỷ lệ môn học đạt điểm dưới 2.0 ở mức cao. |
+|  **Giỏi** | 19 SV | 34.5% | **3.15** | GPA cao nổi trội, kết quả học tập ổn định, tỷ lệ môn giỏi cao. |
+|  **Khá** | 25 SV | 45.5% | **2.58** | Chiếm số đông trong lớp, lực học khá đồng đều, ít môn bị điểm kém. |
+|  **Trung bình - Yếu** | 11 SV | 20.0% | **2.20** | Điểm số không ổn định, tỷ lệ môn học đạt điểm dưới 2.0 ở mức cao. |
 
 ### 2. Đánh Giá Mô Hình
 * **Silhouette Score (K-Means)**: **0.3222** (Mức độ tách biệt giữa các cụm ở mức Khá).
